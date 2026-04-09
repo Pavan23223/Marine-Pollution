@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Live Map | OceanGuardian AI</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+
+<body>
+
+<!-- HEADER -->
+<div class="hero small">
+  <h1><i class="fas fa-map"></i> OceanGuardian Map</h1>
+  <p>Live Marine Pollution Monitoring</p>
+</div>
+
+<!-- FILTER BUTTONS -->
+<div class="filter-container">
+  <button onclick="filterMarkers('ALL')">All</button>
+  <button onclick="filterMarkers('HIGH')">High Pollution</button>
+  <button onclick="filterMarkers('MEDIUM')">Medium</button>
+  <button onclick="filterMarkers('LOW')">Clean</button>
+</div>
+
+<!-- MAP -->
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="map.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,48 @@
+# ==============================
+# ❌ IGNORE EVERYTHING BY DEFAULT
+# ==============================
+*
+
+# ==============================
+# ✅ ALLOW MAIN FOLDERS
+# ==============================
+!backend/
+!frontend/
+!.gitignore
+
+# ==============================
+# ✅ ALLOW FILES INSIDE THEM
+# ==============================
+!backend/**
+!frontend/**
+
+# ==============================
+# ❌ REMOVE BACKEND JUNK
+# ==============================
+backend/venv/
+backend/__pycache__/
+backend/uploads/
+backend/data/
+backend/*.h5
+backend/*.pt
+backend/*.pth
+backend/*.onnx
+backend/.env
+
+# ==============================
+# ❌ REMOVE ROOT JUNK
+# ==============================
+venv_chatbot/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.cache
+
+# ==============================
+# ❌ REMOVE EXTRA FILES
+# ==============================
+commands.txt
+*.zip
+*.avif
+frontend.zip

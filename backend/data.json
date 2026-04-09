@@ -1,0 +1,1735 @@
+[
+    {
+        "filename": "20260401_175935_Screenshot 2026-04-01 155506.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.05,
+        "longitude": 80.25,
+        "timestamp": "2026-04-01 17:59:36"
+    },
+    {
+        "filename": "20260401_180115_Screenshot 2026-04-01 173911.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.05,
+        "longitude": 80.25,
+        "timestamp": "2026-04-01 18:01:16"
+    },
+    {
+        "filename": "20260401_181431_Screenshot 2026-04-01 155506.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 9.93,
+        "longitude": 76.26,
+        "timestamp": "2026-04-01 18:14:31"
+    },
+    {
+        "filename": "20260401_181439_Screenshot 2026-04-01 173523.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 9.93,
+        "longitude": 76.26,
+        "timestamp": "2026-04-01 18:14:40"
+    },
+    {
+        "filename": "20260401_181530_Screenshot 2026-04-01 155506.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 19.07,
+        "longitude": 72.87,
+        "timestamp": "2026-04-01 18:15:31"
+    },
+    {
+        "filename": "20260401_181602_Screenshot 2026-04-01 154532.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "timestamp": "2026-04-01 18:16:02"
+    },
+    {
+        "filename": "20260401_181917_Screenshot 2026-04-01 173523.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 21.64,
+        "longitude": 69.61,
+        "timestamp": "2026-04-01 18:19:17"
+    },
+    {
+        "filename": "20260401_182847_Screenshot 2026-04-01 154437.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "timestamp": "2026-04-01 18:28:48"
+    },
+    {
+        "filename": "20260401_182855_Screenshot 2026-04-01 154532.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 21.64,
+        "longitude": 69.61,
+        "timestamp": "2026-04-01 18:28:56"
+    },
+    {
+        "filename": "20260401_205456_Screenshot 2026-04-01 155506.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "timestamp": "2026-04-01 20:54:57"
+    },
+    {
+        "filename": "20260401_220810_Screenshot 2026-04-01 154532.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "timestamp": "2026-04-01 22:08:11"
+    },
+    {
+        "filename": "20260401_221021_Screenshot 2026-04-01 154532.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "timestamp": "2026-04-01 22:10:21"
+    },
+    {
+        "filename": "20260401_221030_Screenshot 2026-04-01 154236.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "timestamp": "2026-04-01 22:10:30"
+    },
+    {
+        "filename": "20260401_221438_Screenshot 2026-04-01 154532.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 9.93,
+        "longitude": 76.26,
+        "timestamp": "2026-04-01 22:14:38"
+    },
+    {
+        "filename": "20260401_224929_13.05_80.25_chennai.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.05,
+        "longitude": 80.25,
+        "timestamp": "2026-04-01 22:49:30"
+    },
+    {
+        "filename": "20260402_065539_15.30_73.90_goa.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 15.3,
+        "longitude": 73.9,
+        "timestamp": "2026-04-02 06:55:41"
+    },
+    {
+        "filename": "20260406_222900_21.64_69.61_gujarat.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 21.64,
+        "longitude": 69.61,
+        "timestamp": "2026-04-06 22:29:02"
+    },
+    {
+        "filename": "20260406_222911_12.97_77.59_bangalore.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 12.97,
+        "longitude": 77.59,
+        "timestamp": "2026-04-06 22:29:12"
+    },
+    {
+        "filename": "20260406_222925_13.05_80.25_chennai.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.05,
+        "longitude": 80.25,
+        "timestamp": "2026-04-06 22:29:25"
+    },
+    {
+        "filename": "20260406_223051_9.93_76.26_kochi.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 9.93,
+        "longitude": 76.26,
+        "timestamp": "2026-04-06 22:30:51"
+    },
+    {
+        "filename": "20260406_223223_9.93_76.26_kochi.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 9.93,
+        "longitude": 76.26,
+        "timestamp": "2026-04-06 22:32:23"
+    },
+    {
+        "filename": "20260406_223339_12.97_77.59_bangalore.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 12.97,
+        "longitude": 77.59,
+        "timestamp": "2026-04-06 22:33:39"
+    },
+    {
+        "filename": "20260406_224110_12.97_77.59_bangalore.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 12.97,
+        "longitude": 77.59,
+        "timestamp": "2026-04-06 22:41:11"
+    },
+    {
+        "filename": "20260406_224125_21.64_69.61_gujarat.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 21.64,
+        "longitude": 69.61,
+        "timestamp": "2026-04-06 22:41:25"
+    },
+    {
+        "filename": "20260406_224429_12.97_77.59_bangalore.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 12.97,
+        "longitude": 77.59,
+        "timestamp": "2026-04-06 22:44:29"
+    },
+    {
+        "filename": "20260406_224446_15.30_73.90_goa.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 15.3,
+        "longitude": 73.9,
+        "timestamp": "2026-04-06 22:44:47"
+    },
+    {
+        "filename": "20260406_224458_15.30_73.90_goa.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 15.3,
+        "longitude": 73.9,
+        "timestamp": "2026-04-06 22:44:58"
+    },
+    {
+        "filename": "20260406_224504_21.64_69.61_gujarat.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 21.64,
+        "longitude": 69.61,
+        "timestamp": "2026-04-06 22:45:04"
+    },
+    {
+        "filename": "20260406_224513_9.93_76.26_kochi.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 9.93,
+        "longitude": 76.26,
+        "timestamp": "2026-04-06 22:45:13"
+    },
+    {
+        "filename": "20260406_224526_13.05_80.25_chennai.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.05,
+        "longitude": 80.25,
+        "timestamp": "2026-04-06 22:45:27"
+    },
+    {
+        "filename": "20260406_225642_12.97_77.59_bangalore.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 12.97,
+        "longitude": 77.59,
+        "timestamp": "2026-04-06 22:56:43"
+    },
+    {
+        "filename": "20260406_230315_21.64_69.61_gujarat.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 21.64,
+        "longitude": 69.61,
+        "timestamp": "2026-04-06 23:03:15"
+    },
+    {
+        "filename": "20260406_230814_15.30_73.90_goa.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 15.3,
+        "longitude": 73.9,
+        "timestamp": "2026-04-06 23:08:14"
+    },
+    {
+        "filename": "20260406_230826_12.97_77.59_bangalore.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 12.97,
+        "longitude": 77.59,
+        "timestamp": "2026-04-06 23:08:26"
+    },
+    {
+        "filename": "20260406_235132_13.53_87.53_BayofBengal(6).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-06 23:51:32"
+    },
+    {
+        "filename": "20260406_235211_13.53_87.53_BayofBengal(6).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-06 23:52:12"
+    },
+    {
+        "filename": "20260406_235213_13.53_87.53_BayofBengal(6).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-06 23:52:13"
+    },
+    {
+        "filename": "20260406_235927_13.53_87.53_BayofBengal(1).jpg",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-06 23:59:27"
+    },
+    {
+        "filename": "20260407_001150_12.97_77.59_bangalore.png",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 12.97,
+        "longitude": 77.59,
+        "timestamp": "2026-04-07 00:11:50"
+    },
+    {
+        "filename": "20260407_001157_15.30_73.90_goa.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 15.3,
+        "longitude": 73.9,
+        "timestamp": "2026-04-07 00:11:57"
+    },
+    {
+        "filename": "20260407_004308_13.53_87.53_BayofBengal(1).jpg",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 00:43:08"
+    },
+    {
+        "filename": "20260407_004309_13.53_87.53_BayofBengal(10).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 00:43:09"
+    },
+    {
+        "filename": "20260407_004309_13.53_87.53_BayofBengal(2).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 00:43:09"
+    },
+    {
+        "filename": "20260407_004310_13.53_87.53_BayofBengal(3).jpg",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 00:43:10"
+    },
+    {
+        "filename": "20260407_004310_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 00:43:11"
+    },
+    {
+        "filename": "20260407_004311_13.53_87.53_BayofBengal(6).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 00:43:11"
+    },
+    {
+        "filename": "20260407_004311_13.53_87.53_BayofBengal(7).jpg",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 00:43:11"
+    },
+    {
+        "filename": "20260407_004312_13.53_87.53_BayofBengal(8).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 00:43:12"
+    },
+    {
+        "filename": "20260407_004312_13.53_87.53_BayofBengal(9).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 00:43:12"
+    },
+    {
+        "filename": "20260407_004449_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 00:44:50"
+    },
+    {
+        "filename": "20260407_134646_13.05_80.25_chennai.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.05,
+        "longitude": 80.25,
+        "timestamp": "2026-04-07 13:46:48"
+    },
+    {
+        "filename": "20260407_135108_21.64_69.61_gujarat.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 21.64,
+        "longitude": 69.61,
+        "timestamp": "2026-04-07 13:51:08"
+    },
+    {
+        "filename": "20260407_135119_21.64_69.61_gujarat.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 21.64,
+        "longitude": 69.61,
+        "timestamp": "2026-04-07 13:51:19"
+    },
+    {
+        "filename": "20260407_135311_13.05_80.25_chennai.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.05,
+        "longitude": 80.25,
+        "timestamp": "2026-04-07 13:53:11"
+    },
+    {
+        "filename": "20260407_135314_13.05_80.25_chennai.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.05,
+        "longitude": 80.25,
+        "timestamp": "2026-04-07 13:53:14"
+    },
+    {
+        "filename": "20260407_135314_13.05_80.25_chennai.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.05,
+        "longitude": 80.25,
+        "timestamp": "2026-04-07 13:53:14"
+    },
+    {
+        "filename": "20260407_135314_13.05_80.25_chennai.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.05,
+        "longitude": 80.25,
+        "timestamp": "2026-04-07 13:53:15"
+    },
+    {
+        "filename": "20260407_135315_13.05_80.25_chennai.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.05,
+        "longitude": 80.25,
+        "timestamp": "2026-04-07 13:53:15"
+    },
+    {
+        "filename": "20260407_135315_13.05_80.25_chennai.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.05,
+        "longitude": 80.25,
+        "timestamp": "2026-04-07 13:53:15"
+    },
+    {
+        "filename": "20260407_135315_13.05_80.25_chennai.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.05,
+        "longitude": 80.25,
+        "timestamp": "2026-04-07 13:53:16"
+    },
+    {
+        "filename": "20260407_135316_13.05_80.25_chennai.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.05,
+        "longitude": 80.25,
+        "timestamp": "2026-04-07 13:53:16"
+    },
+    {
+        "filename": "20260407_135316_13.05_80.25_chennai.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.05,
+        "longitude": 80.25,
+        "timestamp": "2026-04-07 13:53:16"
+    },
+    {
+        "filename": "20260407_135416_12.97_77.59_bangalore(1).jpg",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 12.97,
+        "longitude": 77.59,
+        "timestamp": "2026-04-07 13:54:17"
+    },
+    {
+        "filename": "20260407_135558_12.97_77.59_bangalore(1).jpg",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 12.97,
+        "longitude": 77.59,
+        "timestamp": "2026-04-07 13:55:58"
+    },
+    {
+        "filename": "20260407_140202_13.53_87.53_BayofBengal(1).jpg",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 14:02:04"
+    },
+    {
+        "filename": "20260407_140204_13.53_87.53_BayofBengal(10).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 14:02:05"
+    },
+    {
+        "filename": "20260407_140205_13.53_87.53_BayofBengal(2).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 14:02:06"
+    },
+    {
+        "filename": "20260407_140206_13.53_87.53_BayofBengal(3).jpg",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 14:02:07"
+    },
+    {
+        "filename": "20260407_140207_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 14:02:08"
+    },
+    {
+        "filename": "20260407_140208_13.53_87.53_BayofBengal(6).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 14:02:09"
+    },
+    {
+        "filename": "20260407_140209_13.53_87.53_BayofBengal(7).jpg",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 14:02:09"
+    },
+    {
+        "filename": "20260407_140210_13.53_87.53_BayofBengal(8).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 14:02:10"
+    },
+    {
+        "filename": "20260407_140210_13.53_87.53_BayofBengal(9).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 14:02:11"
+    },
+    {
+        "filename": "20260407_142444_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 14:24:45"
+    },
+    {
+        "filename": "20260407_143130_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 14:31:30"
+    },
+    {
+        "filename": "20260407_143423_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 14:34:23"
+    },
+    {
+        "filename": "20260407_143423_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 14:34:23"
+    },
+    {
+        "filename": "20260407_194310_15.30_73.90_goa.png",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 15.3,
+        "longitude": 73.9,
+        "timestamp": "2026-04-07 19:43:11"
+    },
+    {
+        "filename": "20260407_194329_13.53_87.53_BayofBengal(1).jpg",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 19:43:30"
+    },
+    {
+        "filename": "20260407_194330_13.53_87.53_BayofBengal(10).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 19:43:31"
+    },
+    {
+        "filename": "20260407_194331_13.53_87.53_BayofBengal(2).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 19:43:32"
+    },
+    {
+        "filename": "20260407_194332_13.53_87.53_BayofBengal(3).jpg",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 19:43:33"
+    },
+    {
+        "filename": "20260407_194333_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 19:43:34"
+    },
+    {
+        "filename": "20260407_194334_13.53_87.53_BayofBengal(6).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 19:43:34"
+    },
+    {
+        "filename": "20260407_194335_13.53_87.53_BayofBengal(7).jpg",
+        "detection": "Clean Water",
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 19:43:35"
+    },
+    {
+        "filename": "20260407_194335_13.53_87.53_BayofBengal(8).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 19:43:36"
+    },
+    {
+        "filename": "20260407_194336_13.53_87.53_BayofBengal(9).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 19:43:36"
+    },
+    {
+        "filename": "20260407_195101_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 19:51:02"
+    },
+    {
+        "filename": "20260407_200527_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 99.36,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:05:28"
+    },
+    {
+        "filename": "20260407_200657_13.53_87.53_BayofBengal(6).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 91.14,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:06:57"
+    },
+    {
+        "filename": "20260407_200715_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 99.36,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:07:15"
+    },
+    {
+        "filename": "20260407_201213_13.53_87.53_BayofBengal(10).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 88.78,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:12:13"
+    },
+    {
+        "filename": "20260407_204407_13.53_87.53_BayofBengal(1).jpg",
+        "detection": "Clean Water",
+        "confidence": 99.86,
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:44:08"
+    },
+    {
+        "filename": "20260407_204408_13.53_87.53_BayofBengal(10).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 88.78,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:44:08"
+    },
+    {
+        "filename": "20260407_204409_13.53_87.53_BayofBengal(2).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 90.85,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:44:09"
+    },
+    {
+        "filename": "20260407_204410_13.53_87.53_BayofBengal(3).jpg",
+        "detection": "Clean Water",
+        "confidence": 99.9,
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:44:10"
+    },
+    {
+        "filename": "20260407_204411_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 99.36,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:44:11"
+    },
+    {
+        "filename": "20260407_204411_13.53_87.53_BayofBengal(6).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 91.14,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:44:12"
+    },
+    {
+        "filename": "20260407_204412_13.53_87.53_BayofBengal(7).jpg",
+        "detection": "Clean Water",
+        "confidence": 54.68,
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:44:12"
+    },
+    {
+        "filename": "20260407_204412_13.53_87.53_BayofBengal(8).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 97.77,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:44:13"
+    },
+    {
+        "filename": "20260407_204413_13.53_87.53_BayofBengal(9).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 60.5,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:44:13"
+    },
+    {
+        "filename": "20260407_205018_13.53_87.53_BayofBengal(1).jpg",
+        "detection": "Clean Water",
+        "confidence": 99.86,
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:50:19"
+    },
+    {
+        "filename": "20260407_205019_13.53_87.53_BayofBengal(10).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 88.78,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:50:20"
+    },
+    {
+        "filename": "20260407_205020_13.53_87.53_BayofBengal(3).jpg",
+        "detection": "Clean Water",
+        "confidence": 99.9,
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:50:21"
+    },
+    {
+        "filename": "20260407_205021_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 99.36,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:50:21"
+    },
+    {
+        "filename": "20260407_205022_13.53_87.53_BayofBengal(6).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 91.14,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:50:22"
+    },
+    {
+        "filename": "20260407_205022_13.53_87.53_BayofBengal(8).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 97.77,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:50:23"
+    },
+    {
+        "filename": "20260407_205023_13.53_87.53_BayofBengal(9).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 60.5,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-07 20:50:23"
+    },
+    {
+        "filename": "20260408_140458_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 99.36,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 14:04:59"
+    },
+    {
+        "filename": "20260408_140535_13.53_87.53_BayofBengal(1).jpg",
+        "detection": "Clean Water",
+        "confidence": 99.86,
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 14:05:36"
+    },
+    {
+        "filename": "20260408_140536_13.53_87.53_BayofBengal(10).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 88.78,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 14:05:36"
+    },
+    {
+        "filename": "20260408_140537_13.53_87.53_BayofBengal(3).jpg",
+        "detection": "Clean Water",
+        "confidence": 99.9,
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 14:05:37"
+    },
+    {
+        "filename": "20260408_140538_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 99.36,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 14:05:38"
+    },
+    {
+        "filename": "20260408_140538_13.53_87.53_BayofBengal(6).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 91.14,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 14:05:39"
+    },
+    {
+        "filename": "20260408_140539_13.53_87.53_BayofBengal(8).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 97.77,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 14:05:39"
+    },
+    {
+        "filename": "20260408_140540_13.53_87.53_BayofBengal(9).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 60.5,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 14:05:40"
+    },
+    {
+        "filename": "20260408_224422_15.30_73.90_goa.png",
+        "detection": "Plastic Waste Detected",
+        "confidence": 67.75,
+        "risk_level": "HIGH",
+        "latitude": 15.3,
+        "longitude": 73.9,
+        "timestamp": "2026-04-08 22:44:23"
+    },
+    {
+        "filename": "20260408_225124_13.53_87.53_BayofBengal(10).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 88.78
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:51:24"
+    },
+    {
+        "filename": "20260408_225142_13.53_87.53_BayofBengal(5).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 99.36
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:51:42"
+    },
+    {
+        "filename": "20260408_225159_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 99.36,
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:51:59"
+    },
+    {
+        "filename": "20260408_225657_13.53_87.53_BayofBengal(1).jpg",
+        "detection": {
+            "label": "Clean Water",
+            "confidence": 99.86
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:56:58"
+    },
+    {
+        "filename": "20260408_225658_13.53_87.53_BayofBengal(10).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 88.78
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:56:58"
+    },
+    {
+        "filename": "20260408_225658_13.53_87.53_BayofBengal(3).jpg",
+        "detection": {
+            "label": "Clean Water",
+            "confidence": 99.9
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:56:59"
+    },
+    {
+        "filename": "20260408_225659_13.53_87.53_BayofBengal(5).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 99.36
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:56:59"
+    },
+    {
+        "filename": "20260408_225659_13.53_87.53_BayofBengal(6).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 91.14
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:56:59"
+    },
+    {
+        "filename": "20260408_225659_13.53_87.53_BayofBengal(8).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 97.77
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:56:59"
+    },
+    {
+        "filename": "20260408_225659_13.53_87.53_BayofBengal(9).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 60.5
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:57:00"
+    },
+    {
+        "filename": "20260408_225800_13.53_87.53_BayofBengal(1).jpg",
+        "detection": {
+            "label": "Clean Water",
+            "confidence": 99.86
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:58:01"
+    },
+    {
+        "filename": "20260408_225801_13.53_87.53_BayofBengal(10).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 88.78
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:58:01"
+    },
+    {
+        "filename": "20260408_225801_13.53_87.53_BayofBengal(3).jpg",
+        "detection": {
+            "label": "Clean Water",
+            "confidence": 99.9
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:58:01"
+    },
+    {
+        "filename": "20260408_225801_13.53_87.53_BayofBengal(5).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 99.36
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:58:02"
+    },
+    {
+        "filename": "20260408_225802_13.53_87.53_BayofBengal(6).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 91.14
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:58:02"
+    },
+    {
+        "filename": "20260408_225802_13.53_87.53_BayofBengal(8).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 97.77
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:58:02"
+    },
+    {
+        "filename": "20260408_225802_13.53_87.53_BayofBengal(9).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 60.5
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 22:58:02"
+    },
+    {
+        "filename": "20260408_230612_13.53_87.53_BayofBengal(1).jpg",
+        "detection": {
+            "label": "Clean Water",
+            "confidence": 99.86
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:06:12"
+    },
+    {
+        "filename": "20260408_230613_13.53_87.53_BayofBengal(10).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 88.78
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:06:13"
+    },
+    {
+        "filename": "20260408_230613_13.53_87.53_BayofBengal(3).jpg",
+        "detection": {
+            "label": "Clean Water",
+            "confidence": 99.9
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:06:13"
+    },
+    {
+        "filename": "20260408_230613_13.53_87.53_BayofBengal(5).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 99.36
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:06:13"
+    },
+    {
+        "filename": "20260408_230613_13.53_87.53_BayofBengal(6).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 91.14
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:06:14"
+    },
+    {
+        "filename": "20260408_230614_13.53_87.53_BayofBengal(8).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 97.77
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:06:14"
+    },
+    {
+        "filename": "20260408_230614_13.53_87.53_BayofBengal(9).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 60.5
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:06:14"
+    },
+    {
+        "filename": "20260408_231042_13.53_87.53_BayofBengal(1).jpg",
+        "detection": {
+            "label": "Clean Water",
+            "confidence": 99.86
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:10:43"
+    },
+    {
+        "filename": "20260408_231043_13.53_87.53_BayofBengal(10).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 88.78
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:10:43"
+    },
+    {
+        "filename": "20260408_231043_13.53_87.53_BayofBengal(3).jpg",
+        "detection": {
+            "label": "Clean Water",
+            "confidence": 99.9
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:10:44"
+    },
+    {
+        "filename": "20260408_231044_13.53_87.53_BayofBengal(5).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 99.36
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:10:45"
+    },
+    {
+        "filename": "20260408_231045_13.53_87.53_BayofBengal(6).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 91.14
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:10:45"
+    },
+    {
+        "filename": "20260408_231045_13.53_87.53_BayofBengal(8).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 97.77
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:10:46"
+    },
+    {
+        "filename": "20260408_231046_13.53_87.53_BayofBengal(9).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 60.5
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:10:46"
+    },
+    {
+        "filename": "20260408_231441_13.53_87.53_BayofBengal(1).jpg",
+        "detection": "Clean Water",
+        "confidence": 99.86,
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:14:42"
+    },
+    {
+        "filename": "20260408_231442_13.53_87.53_BayofBengal(10).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 88.78,
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:14:43"
+    },
+    {
+        "filename": "20260408_231443_13.53_87.53_BayofBengal(3).jpg",
+        "detection": "Clean Water",
+        "confidence": 99.9,
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:14:44"
+    },
+    {
+        "filename": "20260408_231444_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 99.36,
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:14:44"
+    },
+    {
+        "filename": "20260408_231444_13.53_87.53_BayofBengal(6).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 91.14,
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:14:45"
+    },
+    {
+        "filename": "20260408_231445_13.53_87.53_BayofBengal(8).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 97.77,
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:14:45"
+    },
+    {
+        "filename": "20260408_231445_13.53_87.53_BayofBengal(9).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 60.5,
+        "decision": "\ud83d\udeab Fishing Restricted (High Risk)",
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:14:45"
+    },
+    {
+        "filename": "20260408_231607_13.53_87.53_BayofBengal(1).jpg",
+        "detection": {
+            "label": "Clean Water",
+            "confidence": 99.86
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:16:09"
+    },
+    {
+        "filename": "20260408_231609_13.53_87.53_BayofBengal(10).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 88.78
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:16:09"
+    },
+    {
+        "filename": "20260408_231609_13.53_87.53_BayofBengal(3).jpg",
+        "detection": {
+            "label": "Clean Water",
+            "confidence": 99.9
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:16:10"
+    },
+    {
+        "filename": "20260408_231610_13.53_87.53_BayofBengal(5).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 99.36
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:16:10"
+    },
+    {
+        "filename": "20260408_231611_13.53_87.53_BayofBengal(6).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 91.14
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:16:11"
+    },
+    {
+        "filename": "20260408_231611_13.53_87.53_BayofBengal(8).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 97.77
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:16:11"
+    },
+    {
+        "filename": "20260408_231611_13.53_87.53_BayofBengal(9).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 60.5
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-08 23:16:12"
+    },
+    {
+        "filename": "20260409_000223_13.53_87.53_BayofBengal(1).jpg",
+        "detection": {
+            "label": "Clean Water",
+            "confidence": 99.86
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-09 00:02:24"
+    },
+    {
+        "filename": "20260409_000224_13.53_87.53_BayofBengal(10).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 88.78
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-09 00:02:24"
+    },
+    {
+        "filename": "20260409_000224_13.53_87.53_BayofBengal(3).jpg",
+        "detection": {
+            "label": "Clean Water",
+            "confidence": 99.9
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-09 00:02:25"
+    },
+    {
+        "filename": "20260409_000225_13.53_87.53_BayofBengal(5).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 99.36
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-09 00:02:25"
+    },
+    {
+        "filename": "20260409_000225_13.53_87.53_BayofBengal(6).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 91.14
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-09 00:02:25"
+    },
+    {
+        "filename": "20260409_000225_13.53_87.53_BayofBengal(8).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 97.77
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-09 00:02:25"
+    },
+    {
+        "filename": "20260409_000225_13.53_87.53_BayofBengal(9).jpg",
+        "detection": {
+            "label": "Plastic Waste Detected",
+            "confidence": 60.5
+        },
+        "decision": "\u2705 Safe Zone",
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-09 00:02:25"
+    },
+    {
+        "filename": "20260409_000555_13.53_87.53_BayofBengal(1).jpg",
+        "detection": "Clean Water",
+        "confidence": 99.86,
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-09 00:05:56"
+    },
+    {
+        "filename": "20260409_000556_13.53_87.53_BayofBengal(10).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 88.78,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-09 00:05:56"
+    },
+    {
+        "filename": "20260409_000557_13.53_87.53_BayofBengal(3).jpg",
+        "detection": "Clean Water",
+        "confidence": 99.9,
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-09 00:05:57"
+    },
+    {
+        "filename": "20260409_000557_13.53_87.53_BayofBengal(5).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 99.36,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-09 00:05:57"
+    },
+    {
+        "filename": "20260409_000558_13.53_87.53_BayofBengal(6).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 91.14,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-09 00:05:58"
+    },
+    {
+        "filename": "20260409_000558_13.53_87.53_BayofBengal(8).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 97.77,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-09 00:05:58"
+    },
+    {
+        "filename": "20260409_000559_13.53_87.53_BayofBengal(9).jpg",
+        "detection": "Plastic Waste Detected",
+        "confidence": 60.5,
+        "risk_level": "HIGH",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-09 00:05:59"
+    },
+    {
+        "filename": "20260409_000618_13.53_87.53_BayofBengal(3).jpg",
+        "detection": "Clean Water",
+        "confidence": 99.9,
+        "risk_level": "LOW",
+        "latitude": 13.53,
+        "longitude": 87.53,
+        "timestamp": "2026-04-09 00:06:18"
+    }
+]
