@@ -80,7 +80,7 @@ async function uploadImage() {
         resultBox.innerHTML = `
             ${badge}
             <p>${data.detection}</p>
-            // <small>Confidence: ${data.confidence || "N/A"}%</small>
+             <small>Confidence: ${data.confidence || "N/A"}%</small>
         `;
 
         // 🧹 CLEAR OLD MARKERS
@@ -146,12 +146,30 @@ if (folderInput) {
             if (!file.type.startsWith("image/")) continue;
 
             // 📸 SHOW PREVIEW
+            // 📸 CREATE CARD (image + analysis)
+            const card = document.createElement("div");
+            card.style.display = "inline-block";
+            card.style.margin = "10px";
+            card.style.textAlign = "center";
+
+            // IMAGE
             const img = document.createElement("img");
             img.src = URL.createObjectURL(file);
             img.style.width = "150px";
-            img.style.margin = "10px";
             img.style.borderRadius = "10px";
-            viewer.appendChild(img);
+
+            // ANALYSIS BOX (empty initially)
+            const analysis = document.createElement("div");
+            analysis.style.fontSize = "12px";
+            analysis.style.marginTop = "5px";
+            analysis.innerHTML = "Analyzing...";
+
+            // ADD TO CARD
+            card.appendChild(img);
+            card.appendChild(analysis);
+
+            // ADD TO VIEWER
+            viewer.appendChild(card);
 
             let formData = new FormData();
             formData.append("file", file);
@@ -169,6 +187,12 @@ if (folderInput) {
                     failCount++;
                     continue;
                 }
+                // 📊 UPDATE ANALYSIS BELOW IMAGE
+                analysis.innerHTML = `
+                    <b>${data.risk_level}</b><br>
+                    ${data.detection}<br>
+                    <small>${data.location.latitude.toFixed(2)}, ${data.location.longitude.toFixed(2)}</small>
+                `;
 
                 const lat = data.location.latitude;
                 const lon = data.location.longitude;
