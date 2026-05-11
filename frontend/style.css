@@ -1,12 +1,17 @@
+/* ===== BASE ===== */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
 body {
     margin: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
     background: linear-gradient(135deg, #0a192f, #020c1b);
     color: white;
     text-align: center;
 }
 
-/* HERO SECTION */
+/* ===== HERO SECTION ===== */
 .hero {
     padding: 40px 20px;
 }
@@ -22,16 +27,21 @@ body {
     opacity: 0.8;
 }
 
-/* CONTAINER */
+/* SMALL HERO */
+.hero.small {
+    padding: 20px;
+}
+
+/* ===== CONTAINER (index cards) ===== */
 .container {
     display: flex;
     justify-content: center;
     gap: 30px;
     flex-wrap: wrap;
-    padding: 40px;
+    padding: 40px 20px;
 }
 
-/* CARD DESIGN */
+/* ===== CARD DESIGN ===== */
 .card {
     background: rgba(17, 34, 64, 0.6);
     backdrop-filter: blur(10px);
@@ -47,14 +57,14 @@ body {
     box-shadow: 0 0 30px rgba(100, 255, 218, 0.4);
 }
 
-/* ICON */
+/* ===== ICON ===== */
 .icon {
     font-size: 40px;
     color: #64ffda;
     margin-bottom: 15px;
 }
 
-/* BUTTON */
+/* ===== BUTTON ===== */
 button {
     margin-top: 15px;
     padding: 12px 20px;
@@ -64,6 +74,8 @@ button {
     font-weight: bold;
     cursor: pointer;
     transition: 0.3s;
+    font-size: 15px;
+    touch-action: manipulation;
 }
 
 button:hover {
@@ -71,7 +83,7 @@ button:hover {
     transform: scale(1.05);
 }
 
-/* FOOTER */
+/* ===== FOOTER ===== */
 footer {
     margin-top: 40px;
     padding: 20px;
@@ -79,39 +91,26 @@ footer {
     opacity: 0.7;
 }
 
-body {
-    margin: 0;
-    font-family: 'Poppins', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
-    background: linear-gradient(135deg, #0a192f, #020c1b);
-    color: white;
-    text-align: center;
-}
-
-
-/* SMALL HERO */
-.hero.small {
-    padding: 20px;
-}
-
-/* UPLOAD CONTAINER */
+/* ===== UPLOAD CONTAINER ===== */
 .upload-container {
     display: flex;
     justify-content: center;
-    padding: 30px;
+    padding: 30px 16px;
 }
 
-/* CARD */
+/* ===== UPLOAD CARD ===== */
 .upload-card {
     background: rgba(17, 34, 64, 0.6);
     backdrop-filter: blur(10px);
     padding: 30px;
-    width: 400px;
+    width: 100%;
+    max-width: 440px;
     border-radius: 15px;
     box-shadow: 0 0 20px rgba(100, 255, 218, 0.1);
     text-align: center;
 }
 
-/* UPLOAD BOX */
+/* ===== UPLOAD BOX ===== */
 .upload-box {
     display: block;
     border: 2px dashed #64ffda;
@@ -130,7 +129,7 @@ body {
     display: none;
 }
 
-/* PREVIEW IMAGE */
+/* ===== PREVIEW IMAGE ===== */
 #preview {
     width: 100%;
     margin-top: 15px;
@@ -138,7 +137,7 @@ body {
     display: none;
 }
 
-/* RESULT BOX */
+/* ===== RESULT BOX ===== */
 .result-box {
     margin-top: 20px;
     padding: 15px;
@@ -146,12 +145,12 @@ body {
     border-radius: 10px;
 }
 
-/* BUTTON */
-button {
+/* ===== UPLOAD CARD BUTTON FULL WIDTH ===== */
+.upload-card button {
     width: 100%;
 }
 
-
+/* ===== LOADING ===== */
 .loading {
     text-align: center;
     padding: 20px;
@@ -163,6 +162,7 @@ button {
     margin-bottom: 10px;
 }
 
+/* ===== BADGES ===== */
 .badge {
     padding: 8px 12px;
     border-radius: 8px;
@@ -171,106 +171,162 @@ button {
     margin-bottom: 10px;
 }
 
-.red { background: #e74c3c; }
+.red    { background: #e74c3c; }
 .orange { background: #f39c12; }
-.green { background: #2ecc71; }
+.green  { background: #2ecc71; }
 
-
+/* ===== MAP ===== */
 #map {
-    height: 700px;
+    height: 500px;
     width: 90%;
     margin: 30px auto;
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 }
 
+/* ===== FILTER BUTTONS ===== */
+.filter-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 16px;
+    margin: 10px 0;
+}
+
+.filter-container button {
+    margin: 0;
+    padding: 10px 16px;
+    width: auto;
+    font-size: 14px;
+}
+
+/* ===== IMAGE GRID ===== */
 .image-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-    gap: 20px;
-    padding: 30px;
-    width: 90%;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 16px;
+    padding: 16px;
+    width: 95%;
     margin: auto;
 }
 
-/* Image Card */
+/* ===== IMAGE CARD ===== */
 .image-card {
-    background: rgba(17, 34, 64, 0.6);
-    backdrop-filter: blur(10px);
+    background: #0f172a;
     border-radius: 12px;
-    padding: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
     text-align: center;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
 
-/* Image */
 .image-card img {
     width: 100%;
-    border-radius: 10px;
+    height: 160px;
+    object-fit: cover;
 }
 
-/* Label */
+/* ===== LABEL ===== */
 .label {
     margin-top: 8px;
     font-weight: bold;
     padding: 6px;
     border-radius: 6px;
-    font-size: 14px;
+    font-size: 13px;
 }
 
-.label.clean {
-    background: #2ecc71;
-    color: white;
-}
+.label.clean    { background: #2ecc71; color: white; }
+.label.polluted { background: #e74c3c; color: white; }
 
-.label.polluted {
-    background: #e74c3c;
-    color: white;
-}
-
-.filter-container {
-    display: flex;
-    gap: 25px;
-    text-align: center;
-    margin: 20px;
-}
-
-.filter-container button {
-    
-    margin: 5px;
-    padding: 10px 15px;
-}
-
-
-
-
-.image-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 20px;
-  padding: 20px;
-}
-
-.image-card {
-  background: #0f172a;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 0 10px rgba(0,0,0,0.3);
-}
-
-.image-card img {
-  width: 100%;
-  height: 180px;
-  object-fit: cover;
-}
-
+/* ===== ANALYSIS BOX ===== */
 .analysis-box {
-  padding: 12px;
-  font-size: 14px;
-  color: #e2e8f0;
+    padding: 12px;
+    font-size: 13px;
+    color: #e2e8f0;
 }
 
 .analysis-box h4 {
-  margin-bottom: 6px;
-  color: #38bdf8;
-}   
+    margin-bottom: 6px;
+    color: #38bdf8;
+}
+
+/* ============================================================
+   MOBILE RESPONSIVE — max-width: 600px
+   ============================================================ */
+@media (max-width: 600px) {
+
+    /* Hero */
+    .hero h1 { font-size: 26px; }
+    .hero p  { font-size: 15px; }
+
+    /* Index cards — stack full width */
+    .container {
+        flex-direction: column;
+        align-items: center;
+        gap: 18px;
+        padding: 20px 16px;
+    }
+
+    .card {
+        width: 100%;
+        max-width: 360px;
+        padding: 22px 18px;
+    }
+
+    /* Upload card */
+    .upload-container { padding: 16px 12px; }
+    .upload-card      { padding: 20px 16px; }
+    .upload-box       { padding: 20px; }
+
+    /* Map */
+    #map {
+        height: 320px;
+        width: 95%;
+        margin: 16px auto;
+    }
+
+    /* Filter buttons */
+    .filter-container {
+        gap: 8px;
+        padding: 8px 12px;
+    }
+
+    .filter-container button {
+        padding: 9px 12px;
+        font-size: 13px;
+    }
+
+    /* Image grid — 2 columns on phone */
+    .image-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        padding: 10px;
+        width: 100%;
+    }
+
+    .image-card img { height: 120px; }
+
+    /* Buttons */
+    button { font-size: 14px; padding: 11px 16px; }
+}
+
+/* ============================================================
+   TABLET — max-width: 900px
+   ============================================================ */
+@media (max-width: 900px) {
+
+    .hero h1 { font-size: 32px; }
+
+    .container {
+        gap: 20px;
+        padding: 30px 16px;
+    }
+
+    .card { width: calc(50% - 20px); max-width: 320px; }
+
+    #map { height: 420px; }
+
+    .image-grid {
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    }
+}
