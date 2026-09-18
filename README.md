@@ -1,22 +1,33 @@
 # 🌊 OceanGuardian AI
 
-OceanGuardian AI is an AI-powered marine pollution monitoring system that detects plastic waste in ocean images using a **Convolutional Neural Network (CNN)**.
+OceanGuardian AI is an **AI-powered marine pollution monitoring system** developed to help detect and monitor plastic waste in ocean and coastal environments.
 
-## ✨ Features
+The system uses **Computer Vision and a Convolutional Neural Network (CNN)** to analyze uploaded marine images and determine whether plastic waste is present. Based on the prediction, the system provides a pollution risk level and records the geographical location of the detected pollution.
 
-- 🧠 AI-based plastic waste detection
-- ⚠️ Pollution risk classification
-- 📍 GPS-based pollution location tracking
-- 🗺️ Interactive pollution map using Leaflet & OpenStreetMap
-- 🤖 AI chatbot for marine safety and pollution awareness
-- 📁 Single and multiple image analysis
+## 🚀 Key Features
 
-## 🛠️ Tech Stack
+- 🧠 **Plastic Waste Detection** – Uses a CNN model to classify images as plastic waste detected or no plastic detected.
+- ⚠️ **Risk Classification** – Provides pollution risk levels based on detection results.
+- 📍 **Location Tracking** – Extracts GPS coordinates associated with uploaded images.
+- 🗺️ **Pollution Map** – Displays pollution records on an interactive map using Leaflet and OpenStreetMap.
+- 🤖 **AI Marine Chatbot** – Provides information and guidance related to marine safety, pollution awareness, and environmental recommendations.
+- 📁 **Multiple Image Analysis** – Supports uploading and analyzing multiple marine images.
 
-**Python • TensorFlow • Keras • CNN • FastAPI • HTML • CSS • JavaScript • Leaflet • OpenStreetMap • Groq • LLaMA 3.1**
+## 🔄 How It Works
 
-## 🌍 Sustainability
-
-Supports **SDG 14 – Life Below Water** by using AI to assist in monitoring marine plastic pollution and promoting cleaner oceans.
-
-> 🌊 **Using AI to help monitor and protect our oceans.**
+```text
+Marine Image
+     ↓
+Image Preprocessing
+     ↓
+CNN-based AI Detection
+     ↓
+Plastic / No Plastic
+     ↓
+Risk Classification
+     ↓
+GPS Location & Data Storage
+     ↓
+Interactive Pollution Map
+     ↓
+AI Marine Safety Chatbot
